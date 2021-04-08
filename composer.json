@@ -1,0 +1,45 @@
+{
+    "name": "johnniefucker/flarum-ext-embed-video",
+    "description": "Allow users to embed video using DPlayer and BBCode",
+    "keywords": [
+        "flarum",
+        "embed",
+        "video",
+        "dplayer",
+        "hls",
+        "flv",
+        "bbcode"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/JohnnieFucker/flarum-ext-embed-video/issues",
+        "source": "https://github.com/JohnnieFucker/flarum-ext-embed-video"
+    },
+    "require": {
+        "flarum/core": ">=0.1.0-beta.16 <=0.1.0"
+    },
+    "authors": [
+        {
+            "name": "JohnnieFucker",
+            "email": "crazysperm@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JohnnieFucker\\EmbedVideo\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Embed Video",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-video",
+                "backgroundColor": "#ffb000",
+                "color": "#fff"
+            }
+        }
+    }
+}
