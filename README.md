@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of johnniefucker/flarum-ext-embed-video.** Not for installation: use [Packagist](https://packagist.org/packages/johnniefucker/flarum-ext-embed-video) or the [upstream repository](https://github.com/JohnnieFucker/flarum-ext-embed-video).
 
-**0** versions archived · Latest: [`v2.2.1`](https://github.com/flarchive/johnniefucker-flarum-ext-embed-video/tree/archive/v2.2.1) · License: `MIT` · Flarum: `>=0.1.0-beta.16 <=0.1.0`
+**8** versions archived · Latest: [`v2.2.1`](https://github.com/flarchive/johnniefucker-flarum-ext-embed-video/tree/archive/v2.2.1) · License: `MIT` · Flarum: `>=0.1.0-beta.16 <=0.1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2020-07-22 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/johnniefucker-flarum-ext-embed-video/tree/archive/v1.0.0) |
+| `v1.1.0` | 2020-10-26 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/johnniefucker-flarum-ext-embed-video/tree/archive/v1.1.0) |
+| `v1.1.1` | 2021-01-06 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/johnniefucker-flarum-ext-embed-video/tree/archive/v1.1.1) |
+| `v1.2.0` | 2021-03-05 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/johnniefucker-flarum-ext-embed-video/tree/archive/v1.2.0) |
+| `v2.0.0` | 2021-03-12 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/johnniefucker-flarum-ext-embed-video/tree/archive/v2.0.0) |
+| `v2.1.0` | 2021-03-17 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/johnniefucker-flarum-ext-embed-video/tree/archive/v2.1.0) |
+| `v2.2.0` | 2021-04-08 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/johnniefucker-flarum-ext-embed-video/tree/archive/v2.2.0) |
+| `v2.2.1` | 2021-04-08 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/johnniefucker-flarum-ext-embed-video/tree/archive/v2.2.1) |
 
 Catalog entry: [packages/johnniefucker-flarum-ext-embed-video.json](https://github.com/flarchive/archive-index/blob/main/packages/johnniefucker-flarum-ext-embed-video.json)
 
